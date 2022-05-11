@@ -1,0 +1,73 @@
+body{
+    background-image: url(biohazard\ dark.jpg);
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+.right{ 
+    width: 500px;
+    border: 5px solid white;
+    height: 200px;
+    position: relative;
+    left: 300px;
+    bottom: 20px;
+    color: white;
+    font-size: larger;
+}
+.Todo{
+    font-size: 30px;
+    color: white;
+    position: relative;
+    bottom: 300px;
+    left: 300px;
+}
+.goal{
+    font-size: 30px;
+    color: white;
+    position: relative;
+    bottom: 100px;
+    right: 350px;
+}
+.Weapons{
+    font-size: 30px;
+    color: white;
+    position: relative;
+    bottom: 163px;
+    left: 300px;
+}
+.movement{
+    font-size: 30px;
+    color: white;
+    position: relative;
+    right: 350px;
+}
+.left{
+    width: 500px;
+    border: 5px solid white;
+    height: 200px;
+    position: absolute;
+    right: 800px;
+    top: 119px;
+    color: white;
+}
+.bl{
+    width: 500px;
+    border: 5px solid white;
+    height: 200px;
+    position: absolute;
+    bottom: 20px; 
+    left: 57px;
+    color: white;
+    font-size: larger;
+}
+.br{
+    width: 500px;
+    border: 5px solid white;
+    height: 200px;
+    position: absolute;
+    bottom: 20px;
+    left: 730px;
+    color: white;
+    font-size: larger;
+   
+}

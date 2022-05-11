@@ -1,0 +1,70 @@
+html {
+    background-color: black;
+    background-image: url(Sci5Va.webp);
+    background-size: cover;
+    overflow-x: hidden;
+}
+ 
+ 
+header {
+    text-align: center;
+    font-size: x-large;
+    width: 1250px;
+    color: white;
+   text-shadow: black 3px 3px;
+   box-shadow: black 2px 2px 3px 3px;
+   text-align: center;
+    word-spacing: 20px;
+}
+
+.try {
+    color: white;
+    position: relative;
+    left: 50px;
+}
+ 
+.link {
+color: white;
+
+}
+ 
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover  {
+    color: red;
+}
+.title {
+    font-size: xxx-large;
+    width: 200px;
+    color: white;
+   text-shadow: black 3px 3px;
+   box-shadow: black 1px 1px 1px 1px;
+   
+   
+}
+.title:hover   {
+    color: red;
+}
+.subtitle {
+    font-size: x-large;
+    width: 150px;
+    color: white;
+   
+   text-align: center;
+   padding-left: 100px;
+}
+.text   {
+    font-size: large;
+    color: white;
+   text-align: center;
+   padding-left: 100px;
+   padding-right: 50px;
+   background-color: black;
+   height: 100px;
+   width: 1000px;
+   border-width: 10px;
+   border-color: green;
+   
+}
